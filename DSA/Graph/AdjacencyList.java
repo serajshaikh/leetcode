@@ -77,6 +77,7 @@ public class AdjacencyList{
             graph[3].add(new EdgeWeight(3, 2, -10));
         }
     
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) {
         int V=4;
         System.out.println("Directed and Unweighted Graph");
