@@ -1,2 +1,3 @@
-// eslint-disable-next-line no-console
-console.log('Hello world!');
+function equalPairs(grid: number[][]): number {
+    
+};
